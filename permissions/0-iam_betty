@@ -1,2 +1,2 @@
 #!/bin/bash
-$ wc -l file betty
+$ wc -l betty
