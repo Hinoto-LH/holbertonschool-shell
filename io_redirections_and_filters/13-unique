@@ -1,2 +1,2 @@
 #!/bin/bash
-cat fruit | sort --ignore-case | uniq
+sort | uniq -u
